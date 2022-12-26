@@ -6,5 +6,6 @@ public class Zehra {
 
         System.out.println("Hey group friends");
         System.out.println("We are doing great");
+        System.out.println("A new project");
     }
 }
